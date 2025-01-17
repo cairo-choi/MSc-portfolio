@@ -21,19 +21,7 @@ Method 2: Manually log into each of the three nodes and download the packages in
 
 Since the number of nodes is small, I opted for Method 2. The commands for downloading the necessary packages are as follows:
 
-sudo python3 -m pip install numpy
-
-sudo python3 -m pip install pandas
-
-sudo python3 -m pip install findspark
-
-sudo python3 -m pip install transformers
-
-sudo python3 -m pip install torch
-
-sudo python3 -m pip install vaderSentiment
-
-sudo python3 -m pip install textblob
+sudo python3 -m pip install numpy pandas findspark transformers torch vaderSentiment textblob
 
 
 ## Data Visualization
