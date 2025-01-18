@@ -1,2 +1,2 @@
 # A 100$ JOURNEY: unveiling Bitcoin's Growth and Public Sentiment
-## 
+For the project assignment, I integrated the coursework from both Cloud Technologies and Data Management and Visualization into a single comprehensive project. During the data management and visualization stage, I primarily used Tableau to create visualizations based on the dataset derived from the processing phase. Specifically, for ranking bar charts, I initially created the animations using Tableau and then performed more detailed adjustments—such as changes in year progression and x-axis transitions—using the Adobe Premiere editing software.
