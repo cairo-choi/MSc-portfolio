@@ -9,3 +9,10 @@ The methods and details in this section can be found in the Cloud Technologies d
 
 ## Data Visulization
 ### Visual Effects:
+![final-ezgif com-resize](https://github.com/user-attachments/assets/bc310cc0-a7f8-4062-8fcb-30fc78ac2fdd)
+
+![linr-ezgif com-resize](https://github.com/user-attachments/assets/4f66137b-9cf2-49f2-8456-96c0942e3260)
+
+
+
+
