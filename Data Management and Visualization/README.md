@@ -13,6 +13,5 @@ The methods and details in this section can be found in the Cloud Technologies d
 
 ![linr-ezgif com-resize](https://github.com/user-attachments/assets/4f66137b-9cf2-49f2-8456-96c0942e3260)
 
-
-
+## Presentation
 
