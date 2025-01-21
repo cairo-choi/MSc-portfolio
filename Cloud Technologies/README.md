@@ -1,5 +1,5 @@
 # A 100$ JOURNEY: unveiling Bitcoin's Growth and Public Sentiment
-For the project assignment, I integrated the coursework from both Cloud Technologies and Data Management and Visualization into a single comprehensive project. In the Cloud Technologies component, I focused on AWS Cloud Computing, leveraging an EMR (Elastic MapReduce) environment with three nodes to process data using PySpark. 
+For the project assignment, I integrated the coursework from both Cloud Technologies and Data Management and Visualization into a single comprehensive project. In the Cloud Technologies component, I focused on AWS Cloud Computing, leveraging an EMR (Elastic MapReduce) environment with three nodes to process data using PySpark. Regarding distributed storage system, I utilized Amazon S3 because it integrates seamlessly within the AWS ecosystem, offering great convenience.
 
 ## Abstract
 Our assignment aims to reveal the law of Bitcoin price trends through comparative analysis and sentiment analysis. As a digital asset with high volatility and market influence, Bitcoin's price is driven by a variety of factors, including macroeconomic changes, policy dynamics, and public sentiment. Through data collection and analysis, we will explore the relationship between social sentiment and price fluctuations, and reveal how emotional changes affect Bitcoin's market performance.
